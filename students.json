@@ -1,0 +1,52 @@
+[
+    {
+        "Roll": "101",
+        "Name": "Ishika",
+        "Math": 95,
+        "Science": 90,
+        "English": 88,
+        "Total": 273,
+        "Average": 91.0,
+        "Grade": "A+"
+    },
+    {
+        "Roll": "102",
+        "Name": "Rahul",
+        "Math": 78,
+        "Science": 82,
+        "English": 75,
+        "Total": 235,
+        "Average": 78.33,
+        "Grade": "B"
+    },
+    {
+        "Roll": "103",
+        "Name": "Priya",
+        "Math": 88,
+        "Science": 91,
+        "English": 85,
+        "Total": 264,
+        "Average": 88.0,
+        "Grade": "A"
+    },
+    {
+        "Roll": "104",
+        "Name": "Aman",
+        "Math": 65,
+        "Science": 70,
+        "English": 68,
+        "Total": 203,
+        "Average": 67.67,
+        "Grade": "C"
+    },
+    {
+        "Roll": "105",
+        "Name": "Sneha",
+        "Math": 55,
+        "Science": 60,
+        "English": 58,
+        "Total": 173,
+        "Average": 57.67,
+        "Grade": "D"
+    }
+]
